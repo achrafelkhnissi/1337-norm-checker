@@ -1,0 +1,14 @@
+name: "Norminette Check"
+description: "Check norminette for C files in 42 projects"
+
+authors:
+  - name: "Achraf El Khnissi"
+    email: "ael-khni@student.1337.ma"
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
+branding:
+  icon: 'check-square'
+  color: 'blue'
