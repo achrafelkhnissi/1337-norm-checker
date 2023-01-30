@@ -15,5 +15,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3.3.0
-    - uses: achrafelkhnissi/1337-norm-check@main
+    - uses: achrafelkhnissi/1337-norm-check@v1.0
 ```
